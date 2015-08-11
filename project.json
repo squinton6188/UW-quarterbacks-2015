@@ -1,0 +1,20 @@
+{
+  "s3": {
+    "stage": {
+      "bucket": "apps-stage.seattletimesdata.com",
+      "path": "sports-slider"
+    },
+    "live": {
+      "bucket": "projects.seattletimes.com",
+      "path": "2015/sports/UW-quarterbacks-2015"
+    }
+  },
+  "title": "",
+  "description": "",
+  "url": "http://projects.seattletimes.com/2015/sports/UW-quarterbacks-2015/",
+  "slug": "",
+  "tags": ["interactive", "parallax"],
+  "image": "",
+  "production": false,
+  "sheets": ["1sOY9ZUzDxpB103NYBC1LJuZn7xaYN_3Jj1M6Bz8imeg"]
+}

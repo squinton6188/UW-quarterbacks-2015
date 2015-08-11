@@ -1,0 +1,7 @@
+Warning: This project is not marked as production-ready. Please make sure the
+following checklist items are complete, then set `"production": true` in your
+project.json to allow live publishes.
+
+- Have the developers or a second producer seen this?
+- Has it been copy-edited?
+- Have you checked it in the Facebook Object debugger for sharing?
